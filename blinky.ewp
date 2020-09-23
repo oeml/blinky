@@ -2114,4 +2114,7 @@
     <file>
         <name>$PROJ_DIR$\main.c</name>
     </file>
+    <file>
+        <name>$PROJ_DIR$\TM4C123GH6PM.h</name>
+    </file>
 </project>
